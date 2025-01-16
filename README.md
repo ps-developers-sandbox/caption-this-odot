@@ -1,4 +1,4 @@
-# GitHub for Developers
+# GitHub for Developers!
 
 - Class Date: Jan 16 - 17, 2025
 - Facilitator: @Juma Aman
